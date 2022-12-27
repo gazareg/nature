@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Love Nature CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/love.nature.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Viasat Nature
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.nature.ro.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Better Life Nature Channel (480p)
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Better Life’s Nature Channel
+https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Undefined",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.nature.cee.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg" group-title="Undefined",Viasat Nature
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Viasat Nature/History
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.naturehistory.ru.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Love Nature
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNjsnKpDhqUM3hix6wZ7i-4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Nature
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.nature.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="Undefined",Better Life’s Nature Channel,US | Better Life’s Nature Channel
+https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Religious",Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (East) US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature (West)
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.pacific.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Undefined",Stingray Naturescape,US | Stingray Naturescape
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO SIGNATURE BR
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19050/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Love Nature 4K
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/5001/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Love Nature 4K
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/5001/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Love Nature HD TR
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6864/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SKY HIGH NATURE 4K
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14247/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SKY HIGH NATURE 4K
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/14247/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SKY HIGH NATURE 4K HDR
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/14248/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SKY HIGH NATURE 4K HDR
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/14248/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SKY HIGH NATURE FHD
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19309/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",SKY HIGH NATURE FHD
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/19309/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky Nature HD DE
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/19020/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",VIASAT NATURE HD SE
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12084/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",VIASAT NATURE HD/HISTORY HD EUROPE
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/12010/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",VIASAT NATURE HD/HISTORY HD EUROPE LT
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12010/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/161/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature
+https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/161/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature HD
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15225/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature HD
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/15225/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature HD RO
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7037/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature orig
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9295/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature orig
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9295/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature/History HD
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/203/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature/History HD
+http://myott.top/stream/DT6QU63K5VX/240.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature/History HD
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/203/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature/History HD orig
+http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/9027/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Viasat Nature/History HD orig
+http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9027/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45334?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE SD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5448?checkedby:iptvcat.com
